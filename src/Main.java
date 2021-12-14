@@ -23,7 +23,6 @@ public class Main implements MainMethods
                 System.out.println("3. Elemento");
                 System.out.println("4. Calificacion");
                 System.out.println("5. Print");
-                System.out.println("6. Save");
                 System.out.println("8. Salir");
 
                 option = scan.nextInt();
